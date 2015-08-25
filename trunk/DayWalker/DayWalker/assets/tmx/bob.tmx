@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="mapTEST" tilewidth="32" tileheight="32">
+  <image source="gfx/mapTEST.png" width="64" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="bob" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="block" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Calque de Tile 1" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztl0EOwCAIBNX/P7rXxqALgqttOOxFi4yAFWsppR5W6+SxtdgjO2luZf3Z2MhvPzdaKyLuI/+Sj7cN4vHyafa9OuetOwtfG3yr5YuKoabWNfuIzG/kvqT5m3hX8pJK9ZLqBt1fjPqynEVpjMGH2Gdju2OI1j4dwy/woRyf5EOMN/DNfGj6E9YdhnoYy3+ImWf0L2b2AFZf7P4k+f7Lt3KXMvtkjw9Gn+Bdfxdf5Js1gmNXD7zrXR7Fe+IsW8XiS6VSKUkPBwIHAw==
+  </data>
+ </layer>
+</map>

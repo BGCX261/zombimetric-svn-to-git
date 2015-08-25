@@ -1,0 +1,14 @@
+[start]
+  testMap
+[url]
+  belder.jpg;
+[size]
+  340;
+  340;
+[forbiden]
+  5_15;
+  5_16;
+  5_17;
+  5_18;
+  5_19;
+[end]

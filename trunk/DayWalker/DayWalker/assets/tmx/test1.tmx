@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="wall" tilewidth="32" tileheight="32">
+  <image source="../thatFeel.gif" width="633" height="758"/>
+ </tileset>
+ <tileset firstgid="438" name="not" tilewidth="32" tileheight="32">
+  <image source="not.png" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="pass" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="439" name="cc" tilewidth="128" tileheight="102">
+  <image source="20100721132841!Terran_Command_Center.png" width="128" height="102"/>
+  <tile id="0">
+   <properties>
+    <property name="pass" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="440" name="20100721132841!Terran_Command_Center" tilewidth="32" tileheight="32">
+  <image source="20100721132841!Terran_Command_Center.png" width="128" height="102"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0MEJACAQA8Gz/36sz7eiCCImJzuQ/5IIAMANtfRzMrY59c3aXPpc21ZdGfrUMn+n7tu10XfelaFP5Yc+JdcuAAAA4JUGTzlTpA==
+  </data>
+ </layer>
+ <layer name="CC" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1rkRgEAMBEGRf0AccA9PYuesEsBhqZp21p2SpQgAAAAAeGddvi74v8P4hrvahmHjpqaufYwai1qa9jZqS1VNl2FbOo3bAHjjPwGQJjnWCl8=
+  </data>
+ </layer>
+</map>
